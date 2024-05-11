@@ -1,3 +1,4 @@
 # -Amazon
-Amazon clone 
-Author- Lucky
+<pre>Amazon clone 
+Author- Lucky</pre>
+
